@@ -5,13 +5,7 @@ The Library Management System is a software application designed to manage the o
 Database Setup
 To implement the Library Management System, set up a database named library with the following tables.
 
-Tables
-Branch
-Emp_Id (PRIMARY KEY)
-ISBN (PRIMARY KEY)
-Customer_Id (PRIMARY KEY)
-Issue_Id (PRIMARY KEY)
-Return_Id (PRIMARY KEY)
+Tables: Branch,Emp_Id (PRIMARY KEY), ISBN (PRIMARY KEY), Customer_Id (PRIMARY KEY), Issue_Id (PRIMARY KEY), Return_Id (PRIMARY KEY)
 Features
 The system provides the following key functionalities:
 
