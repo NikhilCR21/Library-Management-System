@@ -1,5 +1,5 @@
 # Library-Management-System
-Project Overview
+Project Overview : 
 The Library Management System is a software application designed to manage the operations of a library. It handles the cataloging of books, tracking their availability, and managing transactions such as book issues and returns. This system helps in maintaining detailed records of books along with their cost and status, ensuring efficient management of library resources.
 
 Database Setup
